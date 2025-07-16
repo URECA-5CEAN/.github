@@ -33,37 +33,7 @@
 <div align="center">
 
 ### 🖥️ FrontEnd
-
-<table>
-  <tr>
-    <td>디자인</td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>개발</td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind"\/></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>툴</td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pnpm"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eslint"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prettier"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=storybook"/></a>
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=figma,typescript,react,tailwindcss,vite,pnpm)](https://skillicons.dev)
 
 </div>
 
@@ -73,47 +43,8 @@
 <div align="center">
   
 ### 💾 BackEnd
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,java,spring,mysql)](https://skillicons.dev)
 
-<table>
-  <tr>
-    <td>배포</td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws"/></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker"/></a>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>개발</td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java"/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td>DB</td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td>AI</td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=springai"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td>테스트</td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=junit"/>
-    </td>
-  </tr>
-</table>
-  
 </div>
 
 <br/>
