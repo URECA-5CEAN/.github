@@ -30,6 +30,8 @@
 
 ## 🧱 기술 스택
 
+<div align="center">
+
 ### 🖥️ FrontEnd
 
 <table>
@@ -63,17 +65,21 @@
   </tr>
 </table>
 
+</div>
+
 <br/>
 
+
+<div align="center">
+  
 ### 💾 BackEnd
 
 <table>
   <tr>
     <td>배포</td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws"/>
-        <img src="https://skillicons.dev/icons?i=docker"/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker"/></a>
       </a>
     </td>
   </tr>
@@ -81,42 +87,81 @@
   <tr>
     <td>개발</td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java"/>
-        <img src="https://skillicons.dev/icons?i=spring"/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java"/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring"/>
     </td>
   </tr>
 
   <tr>
     <td>DB</td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql"/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql"/>
     </td>
   </tr>
 
   <tr>
     <td>AI</td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=springai"/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=springai"/>
     </td>
   </tr>
 
   <tr>
     <td>테스트</td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=junit"/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=junit"/>
     </td>
   </tr>
 </table>
   
-</table>
+</div>
 
 <br/>
 
 ## 🔧 주요 기능
+### 🛡️ Auth
+- 회원가입/로그인
+
+<br/>
+
+### 👤 User
+
+<br/>
+
+### 🤖 AI
+- 챗봇 시스템
+
+<br/>
+
+### 🗺️ Map
+- KakaoMap API로 지도 출력
+- 마커 기능
+- 현재 위치/화면 주변 검색
+- 길찾기
+- 길찾기 즐겨찾기
+- 제휴처 즐겨찾기
+<br/>
+
+### 🏠 Store
+- 제휴처 목록 조회
+- 제휴처 상세 조회
+
+<br/>
+
+### 💬 Community
+- 게시판 시스템
+
+<br/>
+
+### 📊 Status
+
+<br/>
+
+### 🎮 Gamification
+- 칭호 시스템
+
+<br/>
+
 
 <br/>
 
