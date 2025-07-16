@@ -25,5 +25,21 @@
 | [@taeaeaexin](https://github.com/taeaeaexin)                            | [@jmk445](https://github.com/jmk445)                            | [@kjs254](https://github.com/kjs254)                            |
 
 </div>
-  
+
 <br/>
+
+## 기술 스택
+
+<br/>
+
+## 주요 기능
+
+<br/>
+
+## 👥 ERD
+<img width="1482" height="785" alt="image" src="https://github.com/user-attachments/assets/08cf87ba-c26f-4cf5-aeb5-aff54c6f549e" />
+
+<br/>
+
+## 👥 InfraStructure
+<img width="1482" alt="image" src="https://github.com/user-attachments/assets/22802a8b-239b-4161-bec5-ddddfd13b239" />
