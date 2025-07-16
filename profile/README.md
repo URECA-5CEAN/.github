@@ -19,7 +19,7 @@
 |  <img src="https://avatars.githubusercontent.com/Hanyeojun" width=150> |  <img src="https://avatars.githubusercontent.com/nas7062" width=150> |<img src="https://avatars.githubusercontent.com/song-eun" width=150>|<img src="https://avatars.githubusercontent.com/leeemingyu" width=150>|
 | [@Hanyeojun](https://github.com/Hanyeojun)                             | [@nas7062](https://github.com/nas7062)                                 | [@song-eun](https://github.com/song-eun)                               | [@leeemingyu](https://github.com/leeemingyu)                        |
 
-| 문태신 | 김정민 | 김지산 |
+| 👑 문태신 | 김정민 | 김지산 |
 |:----------------------------------------------------------------------------------:|:--:|:--:|
 | <img src="https://avatars.githubusercontent.com/taeaeaexin" width=150> | <img src="https://avatars.githubusercontent.com/jmk445" width=150> | <img src="https://avatars.githubusercontent.com/kjs254" width=150> |
 | [@taeaeaexin](https://github.com/taeaeaexin)                            | [@jmk445](https://github.com/jmk445)                            | [@kjs254](https://github.com/kjs254)                            |
@@ -28,18 +28,18 @@
 
 <br/>
 
-## 기술 스택
+## 🧱 기술 스택
 
 <br/>
 
-## 주요 기능
+## 🔧 주요 기능
 
 <br/>
 
-## 👥 ERD
+## 🕸️ ERD
 <img width="1482" height="785" alt="image" src="https://github.com/user-attachments/assets/08cf87ba-c26f-4cf5-aeb5-aff54c6f549e" />
 
 <br/>
 
-## 👥 InfraStructure
+## 🖥️ InfraStructure
 <img width="1482" alt="image" src="https://github.com/user-attachments/assets/22802a8b-239b-4161-bec5-ddddfd13b239" />
