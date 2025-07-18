@@ -79,6 +79,6 @@
 <br/>
 
 ## 🖥️ InfraStructure
-<img width="1482" alt="image" src="https://github.com/user-attachments/assets/22802a8b-239b-4161-bec5-ddddfd13b239" />
+<img width="2000" height="1267" alt="infraStructure-ureca-final-project" src="https://github.com/user-attachments/assets/7afc2587-0ff2-4f65-acd4-294353385455" />
 
 <br/>
