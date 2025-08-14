@@ -9,6 +9,11 @@
 ```
 
 <br/>
+<div align="center">
+<img width="954" height="538" alt="image" src="https://github.com/user-attachments/assets/895b4809-6811-40b3-b3e4-fd232aac97c0" />
+</div>
+
+<br/>
 
 ## 👥 팀원 소개
 
